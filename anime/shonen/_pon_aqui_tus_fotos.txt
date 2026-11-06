@@ -1,0 +1,1 @@
+Guarda aqui las fotos de esta subcategoria y agregalas en js/data.js
